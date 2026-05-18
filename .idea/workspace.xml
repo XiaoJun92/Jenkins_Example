@@ -4,7 +4,7 @@
   <component name="PropertiesComponent">{}</component>
   <component name="RunManager">
     <configuration name="JenkinsXjApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="Jenkins_XJ" />
+      <module name="Jenkins_Example" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.jenkins_xj.JenkinsXjApplication" />
       <method v="2">
         <option name="Make" enabled="true" />

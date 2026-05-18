@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.example</groupId>
-    <artifactId>Jenkins_XJ</artifactId>
+    <artifactId>Jenkins_Example</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Jenkins_XJ</name>
     <description>Jenkins_XJ</description>
